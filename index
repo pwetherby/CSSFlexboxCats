@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <header class="header">
+      <h1>css flexbox photo gallery</h1>
+    </header>
+    <div class="gallery">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg" alt="sleeping bicolar tabby kitten">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/2.jpg" alt="blue eyed kitten on its back">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/3.jpg"alt="green eyed long-haired tabby cat">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/4.jpg"alt="sleeping calico kitten under bedsheets">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/5.jpg" alt="blue eyed white and gray siamese cat looking at camera">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/6.jpg" alt="pair of brown tabby kittens">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/7.jpg" alt="short eared cat hiding under rug on couch">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/8.jpg" alt="orange tabby kitten looking at camera">
+      <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/9.jpg" alt="a tuxedo kitten and a blue eyed tabby looking to the left">
+    </div>
+  </body>
+</html>
